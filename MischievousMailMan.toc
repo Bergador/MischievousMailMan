@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: MischievousMailMan
+## Version: 0.1
+## Notes: Spam your friends.
+
+MischievousMailMan.lua
